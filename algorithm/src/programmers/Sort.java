@@ -2,7 +2,7 @@ package programmers;
 
 import java.util.*;
 
-public class Heap {
+public class Sort {
     public static void main(String[] args) {
         int[] numbers = {6, 10, 2};
         solution(numbers);
